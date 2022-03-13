@@ -1,0 +1,1 @@
+alert("NEVJERUJ IM BJEŽI DOK MOŽEŠ");   
